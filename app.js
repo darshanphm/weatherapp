@@ -1,5 +1,5 @@
 // Add your API key here
-const API_KEY = ``;
+const API_KEY = `aec4638f070da9d17310eaefd6cf3a0f`;
 const form = document.querySelector("form");
 const search = document.querySelector("#search");
 const weather = document.querySelector("#weather");
